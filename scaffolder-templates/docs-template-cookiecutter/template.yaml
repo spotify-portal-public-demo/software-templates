@@ -9,7 +9,7 @@ metadata:
     - mkdocs
     - cookiecutter
 spec:
-  owner: backstage/techdocs-core
+  owner: group:gitops-devs
   type: documentation
 
   parameters:

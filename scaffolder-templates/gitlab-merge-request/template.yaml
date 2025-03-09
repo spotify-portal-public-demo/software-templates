@@ -5,7 +5,7 @@ metadata:
   title: GitLab Merge Request Action template
   description: Scaffolder template demo publishing a Merge Request on existing GitLab repository
 spec:
-  owner: backstage/techdocs-core
+  owner: group:gitops-devs
   type: service
 
   parameters:

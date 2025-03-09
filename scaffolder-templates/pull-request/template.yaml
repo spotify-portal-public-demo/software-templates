@@ -5,7 +5,7 @@ metadata:
   title: Pull Request Action template
   description: scaffolder v1beta3 template demo publishing to PR on existing git repository
 spec:
-  owner: backstage/techdocs-core
+  owner: group:gitops-devs
   type: service
 
   parameters:
