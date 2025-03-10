@@ -1,4 +1,4 @@
-FROM openjdk:11-alpine
+FROM amazoncorretto:11-alpine
 ENTRYPOINT ["/usr/bin/${{values.artifact_id}}.sh"]
 
 COPY ${{values.artifact_id}}.sh /usr/bin/${{values.artifact_id}}.sh
