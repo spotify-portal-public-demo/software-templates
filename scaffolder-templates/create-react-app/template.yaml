@@ -10,6 +10,7 @@ metadata:
 spec:
   owner: web@example.com
   type: website
+  parameters:
     - title: Choose a location
       required:
         - repoUrl
